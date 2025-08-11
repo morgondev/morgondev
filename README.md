@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align = "center">
 
-<!--
-**morgondev/morgondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ilana Morgon!
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About me -->
+<div align = "left">
+
+📖 <b>Computer Science student</b> at <b>Universidade Cidade de São Paulo</b> — currently in my last semester.  
+
+💼 2 years of internship in <b>data analysis</b>, performing data validations and participating in the entire process of building a data lake — from documentation to deployment.
+
+⚙️ 1 year developing <b>low-code/no-code</b> solutions to automate workflows, centralize data, and improve quality, using <b>Power Automate</b>, <b>Power Apps</b>, and a bit of <b>Quickbase</b>.  
+
+🚀 Currently studying <b>back-end development</b> with Java, aiming to become a <b>full-stack developer</b>.
+
+💡 Curious and always ready to learn something new.
+
+</div>
+
+<br>
+
+<!-- Contacts -->
+<div align = "left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilana-morgon/)
+[![E-mail](https://img.shields.io/badge/Email-C50000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morgon.ilana@gmail.com)
+
+</div>
+
+<hr/>
+
+<!-- Techs -->
+
+<div align = "center">
+
+### Known Technologies
+
+![Tools](https://skillicons.dev/icons?i=java,python,mysql,gcp,html,css,figma,git,github)
+
