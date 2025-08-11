@@ -5,6 +5,7 @@
 </div>
 
 <!-- About me -->
+
 <div align = "left">
 
 📖 <b>Computer Science student</b> at <b>Universidade Cidade de São Paulo</b> — currently in my last semester.  
@@ -22,6 +23,7 @@
 <br>
 
 <!-- Contacts -->
+
 <div align = "left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilana-morgon/)
